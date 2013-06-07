@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//digo eh mais gay ainda
+
 typedef struct tree{
         int info;
         struct tree *left;
